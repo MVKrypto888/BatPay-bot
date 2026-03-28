@@ -1,0 +1,8 @@
+TOKEN = "8731993134:AAGeyePKL0LoQgy2KvCrbwFHZGXMZScDcDs"
+
+ADMIN_ID = 7709677850
+ADMIN_ID_2 = 665231131
+
+RATE_FILE = "data/rates.json"
+ORDERS_FILE = "data/orders.json"
+DEFAULT_RATE = {"PLN": 11.6}
